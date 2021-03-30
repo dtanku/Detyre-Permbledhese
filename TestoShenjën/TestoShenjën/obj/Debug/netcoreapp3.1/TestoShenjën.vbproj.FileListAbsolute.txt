@@ -1,0 +1,12 @@
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\obj\Debug\netcoreapp3.1\TestoShenjën.AssemblyInfoInputs.cache
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\obj\Debug\netcoreapp3.1\TestoShenjën.AssemblyInfo.vb
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\obj\Debug\netcoreapp3.1\TestoShenjën.vbproj.CoreCompileInputs.cache
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\bin\Debug\netcoreapp3.1\TestoShenjën.exe
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\bin\Debug\netcoreapp3.1\TestoShenjën.deps.json
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\bin\Debug\netcoreapp3.1\TestoShenjën.runtimeconfig.json
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\bin\Debug\netcoreapp3.1\TestoShenjën.runtimeconfig.dev.json
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\bin\Debug\netcoreapp3.1\TestoShenjën.dll
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\bin\Debug\netcoreapp3.1\TestoShenjën.pdb
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\obj\Debug\netcoreapp3.1\TestoShenjën.dll
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\obj\Debug\netcoreapp3.1\TestoShenjën.pdb
+C:\Users\atanku\source\repos\Detyre Permbledhese\TestoShenjën\TestoShenjën\obj\Debug\netcoreapp3.1\TestoShenjën.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\obj\Debug\netcoreapp3.1\Plotëpjesto me tre.AssemblyInfoInputs.cache
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\obj\Debug\netcoreapp3.1\Plotëpjesto me tre.AssemblyInfo.vb
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\obj\Debug\netcoreapp3.1\Plotëpjesto me tre.vbproj.CoreCompileInputs.cache
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\bin\Debug\netcoreapp3.1\Plotëpjesto me tre.exe
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\bin\Debug\netcoreapp3.1\Plotëpjesto me tre.deps.json
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\bin\Debug\netcoreapp3.1\Plotëpjesto me tre.runtimeconfig.json
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\bin\Debug\netcoreapp3.1\Plotëpjesto me tre.runtimeconfig.dev.json
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\bin\Debug\netcoreapp3.1\Plotëpjesto me tre.dll
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\bin\Debug\netcoreapp3.1\Plotëpjesto me tre.pdb
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\obj\Debug\netcoreapp3.1\Plotëpjesto me tre.dll
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\obj\Debug\netcoreapp3.1\Plotëpjesto me tre.pdb
+C:\Users\atanku\source\repos\Detyre Permbledhese\Plotëpjesto me tre\Plotëpjesto me tre\obj\Debug\netcoreapp3.1\Plotëpjesto me tre.genruntimeconfig.cache
